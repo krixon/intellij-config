@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.env.dist" type=".env file" />
-      <mapping pattern="password" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type=".env file" />
     </extensionMap>
   </component>
 </application>
