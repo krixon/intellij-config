@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.env.dist" type=".env file" />
       <mapping pattern=".env.dist" type=".env file" />
+      <mapping ext="adoc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
